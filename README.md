@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>Portfolio-microverse</b></h3>
+  <h3><b>setup and mobile first</b></h3>
 
 </div>
 
@@ -96,7 +96,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Gh-Reza/HelloMicroverse.git
+  git clone https://github.com/fatima-najafi/setup-and-mobile-first.git
 ```
 
 ### Install
@@ -123,7 +123,7 @@ StyleLint run:
 To run the project, execute the following command:
 
 ```sh
-  cd Portfolio-mobile-version
+  cd setup and mobile first
   index.html
 ```
 
