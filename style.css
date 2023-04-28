@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap");
 
 html {
   scroll-behavior: smooth;
@@ -29,6 +29,18 @@ body {
   align-items: center;
 }
 
+.ham-burger {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 21px;
+  width: 21px;
+  gap: 2px;
+  padding-right: 37px;
+}
+
 .nav-btn {
   border: none;
   background-color: transparent;
@@ -44,6 +56,7 @@ body {
   line-height: 1.25rem;
   margin: 0;
   color: var(--primary);
+  width: 80%;
 }
 
 .menue-btn {
