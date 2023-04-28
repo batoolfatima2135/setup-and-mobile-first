@@ -151,10 +151,9 @@ body {
   .menue-btn li {
     margin-bottom: 25px;
   }
-
 }
+
 @media only screen and (min-width: 768px) {
-  
   .nav-btn,
   .nav-xmark {
     display: none;
